@@ -1,0 +1,7 @@
+C:\Users\susan.smith\source\repos\CodeTest\CodeTest\bin\Debug\CodeTest.exe.config
+C:\Users\susan.smith\source\repos\CodeTest\CodeTest\bin\Debug\CodeTest.exe
+C:\Users\susan.smith\source\repos\CodeTest\CodeTest\bin\Debug\CodeTest.pdb
+C:\Users\susan.smith\source\repos\CodeTest\CodeTest\obj\Debug\CodeTest.csprojAssemblyReference.cache
+C:\Users\susan.smith\source\repos\CodeTest\CodeTest\obj\Debug\CodeTest.csproj.CoreCompileInputs.cache
+C:\Users\susan.smith\source\repos\CodeTest\CodeTest\obj\Debug\CodeTest.exe
+C:\Users\susan.smith\source\repos\CodeTest\CodeTest\obj\Debug\CodeTest.pdb
